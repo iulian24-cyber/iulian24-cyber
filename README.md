@@ -7,4 +7,4 @@
 ![C#](https://img.shields.io/badge/C%23-purple) &nbsp;
 ![GDScript](https://img.shields.io/badge/GDScript-green) &nbsp;
 ![React](https://img.shields.io/badge/React-darkblue) &nbsp;
-![React-Native](https://img.shields.io/badge/React-Native-darkgreen) &nbsp;
+![React-Native](https://img.shields.io/badge/React-darkgreen-Native-darkgreen) &nbsp;
