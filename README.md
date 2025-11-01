@@ -9,3 +9,8 @@
 ![GDScript](https://img.shields.io/badge/GDScript-darkgreen) &nbsp;
 ![React](https://img.shields.io/badge/React-darkblue) &nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-darkblue)
+
+## Skills
+
+![gamedev](https://img.shields.io/badge/gamedev-blue) &nbsp;
+![shaders](https://img.shields.io/badge/shaders-purple) &nbsp;
