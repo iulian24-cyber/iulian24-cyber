@@ -13,9 +13,10 @@
 ## Skills
 
 * I create games in Unity, Unreal and Godot.
+* I like doing shaders in ShaderToy.
 * I've worked with OpenGL/WebGL/Vulkan.
-* I'm passionate about reverse-engineering.
+* I'm passionate about reverse-engineering and dissasembling applications/games.
 
-![gamedev](https://img.shields.io/badge/gamedev-blue) &nbsp;
-![shaders](https://img.shields.io/badge/shaders-purple) &nbsp;
-![reverse_engineering](https://img.shields.io/badge/reverse_engineering-darkgreen) &nbsp;
+![Gamedev](https://img.shields.io/badge/Gamedev-blue) &nbsp;
+![Shaders](https://img.shields.io/badge/Shaders-purple) &nbsp;
+![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-darkgreen) &nbsp;
