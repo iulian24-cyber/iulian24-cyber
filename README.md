@@ -12,7 +12,7 @@
 
 ## Skills
 
-* I create games in Unity, Unreal and Godot.
+* I create games in Unity, Unreal and *Godot*.
 * I like doing shaders in ShaderToy.
 * I've worked with OpenGL/WebGL/Vulkan.
 * I'm passionate about reverse-engineering and dissasembling applications/games.
