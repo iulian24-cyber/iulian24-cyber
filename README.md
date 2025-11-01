@@ -6,6 +6,6 @@
 ![C++](https://img.shields.io/badge/C++-blue) &nbsp;
 ![C](https://img.shields.io/badge/C-blue) &nbsp;
 ![C#](https://img.shields.io/badge/C%23-purple) &nbsp;
-![GDScript](https://img.shields.io/badge/GDScript-green) &nbsp;
+![GDScript](https://img.shields.io/badge/GDScript-darkgreen) &nbsp;
 ![React](https://img.shields.io/badge/React-darkblue) &nbsp;
 ![React Native](https://img.shields.io/badge/React_Native-darkblue)
