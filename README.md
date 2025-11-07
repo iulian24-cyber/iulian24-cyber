@@ -17,6 +17,6 @@
 * I've worked with OpenGL/WebGL/Vulkan.
 * I'm passionate about reverse-engineering and dissasembling applications/games.
 
-![Gamedev](https://img.shields.io/badge/Gamedev-blue) &nbsp;
+![Game_Design](https://img.shields.io/badge/Game_Design-blue) &nbsp;
 ![Shaders](https://img.shields.io/badge/Shaders-purple) &nbsp;
 ![Reverse_Engineering](https://img.shields.io/badge/Reverse_Engineering-darkgreen) &nbsp;
