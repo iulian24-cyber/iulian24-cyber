@@ -2,6 +2,7 @@
 
 * I'm Iulian, a second-year cs student at the Romanian-American University.
 * I'm currently learning **low level** & **graphics programming**!
+* Developing a game...
 
 ![C++](https://img.shields.io/badge/C++-blue) &nbsp;
 ![C](https://img.shields.io/badge/C-blue) &nbsp;
